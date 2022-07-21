@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @josuedzp
 - 👀 I’m interested in development
-- 🌱 I’m currently learning (JAMStack, Go, Tiling window manager)
+- 🌱 I’m currently learning about JAMStack, Go, Tiling window manager
 
 <!---
 josuedzp/josuedzp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
